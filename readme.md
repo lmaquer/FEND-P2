@@ -1,6 +1,6 @@
 # BUILD A PORTFOLIO SITE
 
-** This is the project number 2 required to graduate from the Udacity Front End Nanodegree program **
+This is the project number 2 required to graduate from the Udacity Front End Nanodegree program
 
 List of things i learned by doing this project:
 
